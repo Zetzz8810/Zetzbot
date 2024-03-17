@@ -1,0 +1,49 @@
+const fs = require('fs')
+
+global.namabot = "MilkitaMd"
+global.namaowner = "Alvin"
+global.packname = "MilkitaMd"
+global.creator = "Alvin"
+global.author = "Alvin"
+global.wm = "AlvinCode"
+global.myweb = "https://shoplinks.to/AlvinStore"
+global.footer_text = "©Milkita "
+global.owner = ['6282178372761']
+global.doc = "ᴍɪʟᴋɪᴛᴀ ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ"
+//===============================
+global.apikey = '8c3a5b302815a138d88148fa0c5916c0595bba50' //ambil dari web ini https://otpweb.com
+//==================================
+global.qris = "https://telegra.ph/file/6a367b58ed14c5009179d.jpg"
+global.dana = "0895-1765-7040"
+global.gopay = "0838-5756-4133"
+global.rek = "7605-0101-8289-536"
+//================================
+global.fake = "https://telegra.ph/file/55df8393d102d69ead186.jpg"
+global.gifin = "https://telegra.ph/file/00224f1c0b07a10555f09.mp4"
+global.news = "𝙈𝙞𝙡𝙠𝙞𝙩𝙖𝘽𝙤𝙩-𝙈𝙙| ©𝙼𝚒𝚕𝚔𝚒 𝙰𝚞𝚝𝚘 𝙰𝚜𝚒𝚜𝚝𝚎𝚗"
+global.syt = "https://www.youtube.com/@callmevinz"
+global.sgc = "https://whatsapp.com/channel/0029VaPHYbjHLHQbXFZe9K3o"
+global.email = "thinthekid@gmail.com"
+global.sig = "https://Instagram.com/@unknopin"
+//==========================
+global.pairingNumber = "6283819597833" 
+global.prefa = ['-_-']
+global.tekspushcontact = "Izin Push"
+global.typemenu = "v1"
+global.grup_only = true 
+global.antispam = true
+global.auto_record = true
+global.anticall = true
+global.gcount = {
+     prem: 1000,
+     user: 20,
+}
+global.mess = {
+    done: '_Success_',
+    wait: '_Sedang Di Proses_',
+    admin: '_Fitur Khusus Admin Group_',
+    botNotAdmin: '_Jadikan Bot Sebagai Admin Terlebih Dahulu_',
+    owner: '_Fitur Khusus Owner Bot_',
+    group: '_Fitur Khusus Dalam Group_',
+}
+
